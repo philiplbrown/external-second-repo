@@ -1,0 +1,29 @@
+.box {
+    color: cornflowerblue;
+    background-image: url(../images/sal_altman.webp);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: cover;
+    /* background-color: chartreuse; */
+    border: 8px solid goldenrod;
+    border-radius: 33px;
+    text-align: center;
+}
+.cat {
+    color: cornflowerblue;
+    background-color: chartreuse;
+    border: 8px solid goldenrod;
+    border-radius: 33px;
+    text-align: center;
+}
+.orange {
+    color: brown;
+    background-color: blueviolet;
+}
+.egg {
+    color: black;
+    background-color: chartreuse;
+    border: 8px solid goldenrod;
+    border-radius: 33px;
+    text-align: center;
+}

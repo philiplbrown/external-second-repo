@@ -1,0 +1,22 @@
+.mango {
+    color: brown;
+    color: black;
+    background-color: chartreuse;
+    border: 8px solid goldenrod;
+    border-radius: 33px;
+    /* text-align: center; */
+}
+.ship {
+    color: cadetblue;
+}
+.foot {
+    color: cadetblue;
+    color: brown;
+    color: black;
+    background-color: chartreuse;
+    border: 8px solid goldenrod;
+    border-radius: 33px;
+}
+.fish {
+    color: brown;
+}
